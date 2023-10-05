@@ -79,7 +79,7 @@ streamlit run app.py
 
 ## Screenshot
 
-![GovDataLabeler Screenshot](namingapp.jpg)
+![GovDataLabeler Screenshot](namingapp.JPG)
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
